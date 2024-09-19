@@ -979,7 +979,7 @@ body {
   background-position: top right;
   gap: 5%;
   clip-path: polygon(0 20%, 100% 0, 100% 80%, 0 100%);
-  margin-top: -10rem; }
+  margin-top: -8rem; }
   @media (max-width: 56.25em) {
     .section-features {
       height: 217rem;
@@ -988,10 +988,10 @@ body {
       justify-content: flex-start;
       padding-top: 15rem;
       gap: 3%;
-      margin-top: 4rem; } }
+      margin-top: 5rem; } }
   @media (max-width: 37.5em) {
     .section-features {
-      margin-top: 3rem; } }
+      margin-top: 4rem; } }
 
 .section-tours {
   margin-top: 8rem;

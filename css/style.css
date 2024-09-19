@@ -918,8 +918,8 @@ body {
           width: 37rem;
           height: 30rem; } }
       .about-section .content_and_images .about_images [class^="about_img"] {
-        width: 55%;
-        height: 45%;
+        width: 70%;
+        height: 50%;
         position: absolute;
         box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
         transition: all 0.3s;
